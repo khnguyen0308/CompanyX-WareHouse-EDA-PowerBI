@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Integration Services FactSales", "Integration Services FactSales\Integration Services FactSales.dtproj", "{F328EA67-3136-4DF7-A58A-C9E17A95C71A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F328EA67-3136-4DF7-A58A-C9E17A95C71A}.Development|Default.ActiveCfg = Development
+		{F328EA67-3136-4DF7-A58A-C9E17A95C71A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A797B203-11C4-448D-8578-2281E16CC628}
+	EndGlobalSection
+EndGlobal
